@@ -1,5 +1,12 @@
 #Handdorsal & handpalm
-
+- PyCharm
+- Python > 3.5
+- Torch > 2.0.0
+- Other packages:
+- torchvision
+- Opencv-python
+- pythonnet
+- 
 **1. Diffusion+Enhancement(thumbnail)**
 - 지문,지정맥과 동일 방식 적용 그러나 원본이미지가 아닌 Skeleton image를 생성
 - Generate_sample_diffusion.py 실행(생성시 ckpt 경로 입력)
